@@ -10,7 +10,7 @@ from time import sleep
 
 import requests
 
-BASE_URL = 'http://represent.opennorth.ca'
+BASE_URL = 'https://represent.opennorth.ca'
 
 log = logging.getLogger(__name__)
 
